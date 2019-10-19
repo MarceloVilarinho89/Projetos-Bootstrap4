@@ -1,2 +1,2 @@
 # Projetos-Bootstrap4
-Projetos feitos na linguagem Bootstrap para estudar e aprender sobre a linguagem .
+Projetos feitos em  Bootstrap, para estudar e aprender sobre a framework .
